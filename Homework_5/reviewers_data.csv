@@ -1,0 +1,51 @@
+Name;Gender;Email;Methodologies;Topics;2016;2017;2018;2019
+Liane Heenan;F;lh@fakemail.com;Numerical Algorithms, Statistical Mechanics, Infrared, Python;Security, Viruses, Virtual Reality, Carbohydrates;No; No; Yes; No
+Marco Kerwin;M;mk@fakemail.com;Numerical Algorithms, Bioinformatics, NMR, Raman;Methods Development, Virtual Reality, DNA, Viruses;Yes; Yes; No; No
+Delsie Mccaffery;F;dm@fakemail.com;Basis Sets, Statistical Mechanics, Molecular Dynamics, Bioinformatics;Security, Virtual Reality, Methods Development, Protein;No; No; No; No
+Carolina Ricardo;F;cr@fakemail.com;Infrared, Machine Learning, NMR, Raman;Security, Carbohydrates, Viruses, DNA;Yes; Yes; Yes; Yes
+Tyrone Badeaux;M;tb@fakemail.com;Statistics, NMR, X-ray, Bioinformatics;Viruses, Carbohydrates, Virtual Reality, DNA;Yes; No; Yes; No
+Freddie Drysdale;M;fd@fakemail.com;Raman, Statistical Mechanics, Force Fields, Mathematics;Methods Development, Security, Protein, Viruses;No; No; Yes; No
+Roy Zeller;M;rz@fakemail.com;Java, Numerical Algorithms, Mathematics, Bioinformatics;Methods Development, Carbohydrates, DNA, Security;No; Yes; No; No
+Elisha Sinha;M;es@fakemail.com;Statistics, Infrared, Numerical Algorithms, Machine Learning;Security, Protein, Virtual Reality, DNA;Yes; Yes; No; No
+Lesha Christy;F;lc@fakemail.com;Machine Learning, Numerical Algorithms, X-ray, Python;DNA, Carbohydrates, Methods Development, Protein;Yes; No; Yes; No
+Kaye Zuckerman;F;kz@fakemail.com;Infrared, NMR, Mathematics, Java;Carbohydrates, Security, Virtual Reality, DNA;Yes; No; Yes; Yes
+Terrie Riffel;F;tr@fakemail.com;X-ray, NMR, Mathematics, Basis Sets;Carbohydrates, Methods Development, Security, DNA;Yes; No; Yes; No
+Bronwyn Coke;F;bc@fakemail.com;Bioinformatics, NMR, Statistics, Force Fields;Security, Methods Development, Carbohydrates, Viruses;No; No; Yes; Yes
+Jim Uhlman;M;ju@fakemail.com;Statistics, Force Fields, HPC, Molecular Dynamics;Viruses, Protein, Virtual Reality, Security;No; No; Yes; Yes
+Dexter Paquin;M;dp@fakemail.com;Statistics, Java, Statistical Mechanics, Quantum Mechanics;Carbohydrates, Viruses, Methods Development, Security;No; Yes; Yes; No
+Giuseppe Updike;M;gu@fakemail.com;Basis Sets, Statistics, Statistical Mechanics, Java;DNA, Protein, Carbohydrates, Methods Development;Yes; No; No; No
+Elba Choudhury;F;ec@fakemail.com;Bioinformatics, Python, Quantum Mechanics, Basis Sets;Security, DNA, Virtual Reality, Viruses;No; No; No; No
+Cristobal Maillet;M;cm@fakemail.com;Infrared, Molecular Dynamics, Statistical Mechanics, HPC;DNA, Security, Methods Development, Protein;No; No; Yes; No
+Alan Olah;M;ao@fakemail.com;X-ray, Statistical Mechanics, Mathematics, Molecular Dynamics;Security, Methods Development, DNA, Virtual Reality;Yes; Yes; No; Yes
+Geri Haislip;F;gh@fakemail.com;Java, NMR, HPC, Statistics;Virtual Reality, Protein, DNA, Methods Development;Yes; No; No; No
+Elbert Lind;M;el@fakemail.com;Force Fields, Statistical Mechanics, Statistics, Basis Sets;Viruses, Security, Virtual Reality, Protein;Yes; No; Yes; Yes
+Fawn Enderle;F;fe@fakemail.com;Quantum Mechanics, Machine Learning, Statistics, Python;Protein, Methods Development, Carbohydrates, Security;Yes; Yes; No; No
+Glen Tavares;M;gt@fakemail.com;Molecular Dynamics, Java, X-ray, Raman;Methods Development, Security, DNA, Protein;No; Yes; No; Yes
+Erick Kemmer;M;ek@fakemail.com;Statistical Mechanics, X-ray, Quantum Mechanics, Raman;Security, Methods Development, Carbohydrates, Protein;Yes; Yes; No; Yes
+Madalene Bardwell;F;mb@fakemail.com;Machine Learning, Molecular Dynamics, Statistics, Mathematics;Carbohydrates, Viruses, Security, Methods Development;Yes; Yes; Yes; No
+Stanton Mckinnis;M;sm@fakemail.com;Basis Sets, Mathematics, Python, Numerical Algorithms;DNA, Viruses, Protein, Virtual Reality;Yes; Yes; No; Yes
+Karin Ridley;F;kr@fakemail.com;Molecular Dynamics, Force Fields, NMR, X-ray;Protein, Security, Viruses, DNA;No; No; No; Yes
+Charline Clairmont;F;cc@fakemail.com;Statistical Mechanics, Statistics, Python, Numerical Algorithms;Methods Development, Security, Carbohydrates, DNA;Yes; No; No; No
+Tim Dungy;M;td@fakemail.com;Statistics, Mathematics, Raman, Bioinformatics;Protein, Viruses, Methods Development, DNA;Yes; Yes; No; No
+Elvie Jurek;F;ej@fakemail.com;Statistical Mechanics, Numerical Algorithms, Raman, Mathematics;Methods Development, Viruses, Security, Protein;Yes; Yes; No; Yes
+Kathrine Mccalla;F;km@fakemail.com;Infrared, Statistics, Force Fields, Quantum Mechanics;Carbohydrates, Virtual Reality, Viruses, Protein;Yes; Yes; Yes; No
+Jerica Brannigan;F;jb@fakemail.com;Java, Basis Sets, Statistical Mechanics, Numerical Algorithms;Protein, Methods Development, DNA, Security;Yes; Yes; Yes; Yes
+Jackson Lussier;M;jl@fakemail.com;Basis Sets, Force Fields, Infrared, X-ray;Virtual Reality, Viruses, Carbohydrates, DNA;Yes; No; Yes; Yes
+Silas Knapp;M;sk@fakemail.com;Molecular Dynamics, NMR, Numerical Algorithms, Python;Virtual Reality, Protein, DNA, Methods Development;No; Yes; No; No
+Rosana Corman;F;rc@fakemail.com;HPC, Molecular Dynamics, Quantum Mechanics, Python;Security, Viruses, Protein, DNA;Yes; Yes; No; Yes
+Andreas Bento;M;ab@fakemail.com;HPC, Python, Statistical Mechanics, Molecular Dynamics;Carbohydrates, Virtual Reality, DNA, Security;Yes; Yes; No; No
+Doreatha Kimrey;F;dk@fakemail.com;Mathematics, Statistical Mechanics, Force Fields, Numerical Algorithms;Security, Protein, Virtual Reality, Methods Development;Yes; No; Yes; Yes
+Kim Sotta;M;ks@fakemail.com;Numerical Algorithms, Statistics, Mathematics, Statistical Mechanics;Carbohydrates, Viruses, Virtual Reality, Methods Development;Yes; No; Yes; Yes
+Douglass Schaber;M;ds@fakemail.com;Molecular Dynamics, Basis Sets, NMR, Statistical Mechanics;Carbohydrates, Methods Development, DNA, Security;Yes; Yes; Yes; Yes
+Kristofer Ethier;M;ke@fakemail.com;Python, X-ray, Basis Sets, Numerical Algorithms;Protein, Methods Development, DNA, Viruses;Yes; Yes; No; Yes
+Aurelio Mcfadin;M;am@fakemail.com;Python, Infrared, Machine Learning, Bioinformatics;Viruses, Protein, Virtual Reality, DNA;Yes; No; Yes; Yes
+Nellie Tighe;F;nt@fakemail.com;Mathematics, Raman, Statistical Mechanics, Java;Carbohydrates, Virtual Reality, Viruses, DNA;No; No; No; Yes
+Maisha Perera;F;mp@fakemail.com;Java, HPC, Raman, Python;Virtual Reality, Protein, Carbohydrates, Methods Development;Yes; No; Yes; Yes
+Cammy Nalsam;F;cn@fakemail.com;Infrared, Mathematics, X-ray, HPC;Carbohydrates, DNA, Viruses, Protein;Yes; No; No; No
+Bruno Moris;M;bm@fakemail.com;Mathematics, Java, X-ray, Force Fields;Virtual Reality, Methods Development, Security, Protein;Yes; No; Yes; No
+Alease Zinn;F;az@fakemail.com;X-ray, Python, Infrared, Statistics;Carbohydrates, DNA, Virtual Reality, Viruses;No; No; No; No
+Andy Schranz;M;as@fakemail.com;X-ray, Java, HPC, Statistical Mechanics;Carbohydrates, Methods Development, Protein, Security;Yes; No; Yes; Yes
+Jutta Singleton;F;js@fakemail.com;Numerical Algorithms, Basis Sets, Force Fields, X-ray;Methods Development, Viruses, Protein, Security;No; No; No; No
+Pearlene Mara;F;pm@fakemail.com;Statistical Mechanics, Java, Infrared, X-ray;DNA, Virtual Reality, Carbohydrates, Security;No; Yes; No; No
+Jan Pfeffer;M;jp@fakemail.com;Python, Machine Learning, Java, Numerical Algorithms;DNA, Protein, Virtual Reality, Viruses;No; No; Yes; Yes
+Shawanda Finks;F;sf@fakemail.com;Machine Learning, Raman, X-ray, NMR;Carbohydrates, DNA, Virtual Reality, Viruses;Yes; No; No; Yes
